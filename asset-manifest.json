@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/user_search_react/static/css/main.44f8b8b5.css",
+    "main.js": "/user_search_react/static/js/main.f8c5eabd.js",
+    "index.html": "/user_search_react/index.html",
+    "main.44f8b8b5.css.map": "/user_search_react/static/css/main.44f8b8b5.css.map",
+    "main.f8c5eabd.js.map": "/user_search_react/static/js/main.f8c5eabd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44f8b8b5.css",
+    "static/js/main.f8c5eabd.js"
+  ]
+}
